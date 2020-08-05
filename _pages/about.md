@@ -4,10 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am an Embedded Software Engineer at Robert Bosch Engineering and Business Solutions, Pvt. Ltd. 
+Recently I have developed interest in Machine Learning and Artificial Intelligence.
+That is the reason why I have created this blog to talk about this technology which I find really interesting.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+So I will be coming up with posts once in a while.
+Thank you for the support!
